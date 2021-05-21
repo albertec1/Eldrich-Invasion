@@ -38,27 +38,43 @@ We make our games available for free, while players can purchase virtual items p
 #### Humam Sakhnini - President
 Humam Sakhnini has served as President of King since January 2019, after three years as Chief Financial Officer / Chief Strategy Officer. Humam was previously at Activision Blizzard for six years, where he held the position of Chief Strategy and Talent Officer.
 
+![Humam Sakhnini](https://github.com/albertec1/Eldritch-Invasion/blob/main/docs/PressKit%20Team/Human.PNG)
+
 #### Tjodolf Sommestad - Chief Development Officer
 Tjodolf Sommestad has served as our Chief Development Officer since December 2018. Prior to this, Tjodolf held various roles over nine years at King, most recently serving as Senior Vice President for the Candy Crush Franchise and Central Studios. Tjodolf is responsible for King’s Game Studios and Technology teams.
+
+![Tjodolf Sommestad](https://github.com/albertec1/Eldritch-Invasion/blob/main/docs/PressKit%20Team/Tjodolf.PNG)
 
 #### Sebastian Knutsson - Chief Creative Officer
 Sebastian Knutsson is one of our Founders and has served as our Chief Creative Officer since June 2004. Sebastian has more than 25 years of experience in the internet and games industry. As Chief Creative Officer, he leads the product strategy, games development and the design craft.
 
+![Sebastian Knutsson](https://github.com/albertec1/Eldritch-Invasion/blob/main/docs/PressKit%20Team/Sebastian.PNG)
+
 #### Evelyn Rothblum - Chief Business Officer
 Evelyn Rothblum is our Chief Business Officer, a role she has held since January 2020, previously working as the VP of Corporate Strategy. As Chief Business Officer, Evelyn leads financial reporting, planning and analysis (FP&A), central analytics, experimentation, incident management and strategy.
+
+![Evelyn Rothblum](https://github.com/albertec1/Eldritch-Invasion/blob/main/docs/PressKit%20Team/Evelyn.PNG)
 
 #### Kristen Souki - Head of HR
 Kristen Souki is our Head of HR, a role she has held since August 2020, joining King initially as our VP of People in September 2018. Before this, Kristen worked at Activision Blizzard for over eight years, where her last role was Senior Director, HR Europe.
 
+![Kristen Souki](https://github.com/albertec1/Eldritch-Invasion/blob/main/docs/PressKit%20Team/Kristen.PNG)
+
 #### Steven Collins - Chief Technology Officer
 Steve Collins joined King in February 2020, to lead our technology organisation as Chief Technology Officer. Steve founded Swrve, a mobile games and app marketing and optimization platform, in 2010 and worked at the company as a Chief Technology Officer and then Chief Scientist. In 1998, Steve co-founded Havok, the leading real-time physics and animation solution provider to the game industry.
+
+![Steven Collins](https://github.com/albertec1/Eldritch-Invasion/blob/main/docs/PressKit%20Team/Steven.PNG)
 
 #### Anju Sethi - Chief of Staff, Communications, D&I and Culture
 Anju Sethi is Chief of Staff, Communications, D&I and Culture at King, a role she has held since April 2020, having previously worked as Vice President Talent, Change and D&I.
 
+![Anju Sethi](https://github.com/albertec1/Eldritch-Invasion/blob/main/docs/PressKit%20Team/Anju.PNG)
+
 #### Richard Hocking - Head of Marketing
 Richard Hocking is Head of Marketing at King, a role he moved into in March 2019 after three years as VP of Performance Marketing.
 Set the webpage up (A)
+
+![Richard Hocking](https://github.com/albertec1/Eldritch-Invasion/blob/main/docs/PressKit%20Team/Richard.PNG)
 
 ## FAQs
 
@@ -119,8 +135,6 @@ Licorice SwirlIn Candy Crush, blockers are items that will block you on each lev
 
 #### Why can’t I see the Daily Booster Wheel?
 Many people have trouble finding or viewing the daily booster wheel. Most likely this is because you need to update your Candy Crush app (if you are playing on a mobile device). Once you update the app, you will see the new features like the daily booster wheel. If you are all updated and you simply cannot find it, check out our daily booster wheel page for more information on where to find it and how to use it.
-
-![test]()
 
 [Link](url) and ![Image](src)
 ```
