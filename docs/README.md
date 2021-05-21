@@ -135,16 +135,3 @@ Licorice SwirlIn Candy Crush, blockers are items that will block you on each lev
 
 #### Why can’t I see the Daily Booster Wheel?
 Many people have trouble finding or viewing the daily booster wheel. Most likely this is because you need to update your Candy Crush app (if you are playing on a mobile device). Once you update the app, you will see the new features like the daily booster wheel. If you are all updated and you simply cannot find it, check out our daily booster wheel page for more information on where to find it and how to use it.
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/albertec1/Eldritch-Invasion/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
