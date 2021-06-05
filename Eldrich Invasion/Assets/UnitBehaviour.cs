@@ -3,11 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class UnitMovement : MonoBehaviour
+public class UnitBehaviour : MonoBehaviour
 {
 
     public Transform Target;
+    public int Hp;
     private NavMeshAgent agente;
+    public Vector3 size;
+    public Vector3 center;
+
 
     // Start is called before the first frame update
     void Start()
@@ -19,5 +23,19 @@ public class UnitMovement : MonoBehaviour
     void Update()
     {
         agente.SetDestination(Target.position);
+    }
+
+    void GizmoColor()
+    {
+        Gizmos.color = new Color(1, 0, 0, 0.5f);
+        Gizmos.DrawCube(center, size);
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.collider.CompareTag("target"))
+        {
+            Destroy(gameObject);
+        }
     }
 }
