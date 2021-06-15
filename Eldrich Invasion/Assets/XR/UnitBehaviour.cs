@@ -23,6 +23,11 @@ public class UnitBehaviour : MonoBehaviour
     void Update()
     {
         agente.SetDestination(Target.position);
+
+        if (Hp <= 0)
+        {
+            Destroy(gameObject);
+        }
     }
 
     void GizmoColor()
@@ -37,5 +42,9 @@ public class UnitBehaviour : MonoBehaviour
         {
             Destroy(gameObject);
         }
+    }
+    public void TakeDamage(int damage) //should be private, only public for testing
+    {
+        Hp -= damage;
     }
 }
